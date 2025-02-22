@@ -1,0 +1,2 @@
+[2/16/2025 3:17:13 PM] [plugins/mysql] cache_get_value_name_int: field 'Thirsty' not found
+[2/16/2025 3:19:23 PM] [plugins/mysql] error #1054 while executing query "UPDATE Players SET HbeMode='0', Hunger='99', Thirsty='-1' WHERE PlayerName='Alex_Wood'": Unknown column 'Thirsty' in 'field list'

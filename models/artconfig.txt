@@ -1,0 +1,21 @@
+// althea logo server
+AddSimpleModel(-1, 19378, -1000, "AltheaProject.dff", "AltheaProject.txd");
+
+
+// billy beta skins
+AddCharModel(294, 20000, "bmypol1.dff", "bmypol1.txd");
+AddCharModel(294, 20001, "bmypol2.dff", "bmypol2.txd");
+AddCharModel(294, 20002, "cwmohb1.dff", "cwmohb1.txd");
+AddCharModel(294, 20003, "wbdyg1.dff", "wbdyg1.txd");
+AddCharModel(294, 20004, "wbdyg2.dff", "wbdyg2.txd");
+
+// u.k roadman skin
+AddCharModel(294, 20005, "bmydrug.dff", "bmydrug.txd");
+AddCharModel(294, 20006, "fam1.dff", "fam1.txd");
+AddCharModel(294, 20007, "fam2.dff", "fam2.txd");
+AddCharModel(294, 20008, "fam3.dff", "fam3.txd");
+
+// n.y skins
+AddCharModel(294, 20009, "crip1.dff", "crip1.txd");
+AddCharModel(294, 20010, "crip2.dff", "crip2.txd");
+AddCharModel(294, 20011, "crip3.dff", "crip3.txd");
